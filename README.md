@@ -6,16 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;MongoDB+%7C+MySQL;Building+Real-World+Projects" />
 </p>
 
----
 
-## 👋 Hi, I'm Abderrahman
-
-💻 Full-Stack Developer with **5+ years of experience**  
-🚀 Passionate about **modern web applications**  
-🔐 Focused on **performance, security & clean code**  
-🐧 Linux user | Open-source enthusiast  
-
----
 
 ## 🛠 Tech Stack
 
