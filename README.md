@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Abderrahman%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;MongoDB+%7C+MySQL;Building+Real-World+Projects" />
@@ -36,35 +34,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1&column=6" />
-</p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Featured Projects
-- 🛒 E-Commerce Platform (React + Node.js + MongoDB)
-- 💬 Instagram-like Chat System
-- 🏫 School Management System
-- 🧾 Medical Invoice Management System
-
----
 
 ## 📫 Connect With Me
 <p align="left">
   <a href="mailto:arid07abderrahman@gmail.com">
     <img src="https://img.shields.io/badge/Email-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/bdo07">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
