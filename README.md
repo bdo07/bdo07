@@ -9,10 +9,10 @@
 
 
 ## tech_stack.execute();
-## <SkillsAndTools />
 
 
-### Frontend
+
+### Frontend.execute();
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-0F172A?style=for-the-badge&logo=redux&logoColor=764ABC)
@@ -21,13 +21,13 @@
 ![Three.js](https://img.shields.io/badge/Three.js-0F172A?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
-### Backend
+### Backend.execute();
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
-### Database & Tools
+### Database.Tools.execute();
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -37,7 +37,7 @@
 
 
 
-## 📫 Connect With Me
+## Connect With Me
 <p align="left">
   <a href="mailto:arid07abderrahman@gmail.com">
     <img src="https://img.shields.io/badge/Email-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" />
