@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=%20|%20Full-Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;MongoDB+%7C+MySQL;Building+Real-World+Projects" />
